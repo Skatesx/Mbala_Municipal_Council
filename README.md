@@ -99,4 +99,4 @@ The datasets are provided in CSV format using the pipe character | as the column
 | Name | Student Number |
 | Mwimba Njiko | 2021377229 |
 | Isaac Simbeye | 2021381668 |
-| Maliseni Chavula | — |
+| Maliseni Chavula | 2022056205 |
