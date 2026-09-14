@@ -68,7 +68,7 @@ The final cleaned dataset is provided as a pipe-separated CSV file.
 
 ## 6. Repository Structure
 
-```text
+text
 data/
 ├── db-unza26-csc4792-mbala_municipal_council_cleaned.csv
 └── raw/
@@ -80,3 +80,23 @@ figures/
 
 notebooks/
 └── db-unza26-csc4792-mbala_municipal_council.ipynb
+
+7. Notebook
+The Jupyter notebook documents the data extraction, cleaning, preprocessing, validation and analysis process.
+8. File Format
+The datasets are provided in CSV format using the pipe character | as the column separator.
+
+## 9. Project Team
+
+**Project Team #17**
+
+**Council:** Mbala Municipal Council
+
+**Course:** CSC 4792: Data Mining and Warehousing
+
+### Team Members
+
+| Name | Student Number |
+| Mwimba Njiko | 2021377229 |
+| Isaac Simbeye | 2021381668 |
+| Maliseni Chavula | — |
