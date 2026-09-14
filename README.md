@@ -86,7 +86,13 @@ The Jupyter notebook documents the data extraction, cleaning, preprocessing, val
 8. File Format
 The datasets are provided in CSV format using the pipe character | as the column separator.
 
-## 9. Project Team
+## 9. Dataset
+
+The dataset is published on Kaggle: 
+[Mbala Municipal Council Dataset — CDF](https://www.kaggle.com/datasets/lushomomunsaka/mbala-municipal-council-dataset-cdf/data)
+
+
+## 10. Project Team
 
 **Project Team #17**
 
